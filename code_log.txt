@@ -1,0 +1,13 @@
+2025-01-27 19:11:48.829610 : Preliminares completos. Iniciando proceso ETL
+2025-01-27 19:12:03.050687 : Archivo CSV guardado correctamente.
+2025-01-27 19:12:03.251182 : Datos cargados en la base de datos correctamente.
+2025-01-27 19:26:14.629122 : Preliminares completos. Iniciando proceso ETL
+2025-01-27 19:26:26.427623 : Archivo CSV guardado correctamente.
+2025-01-27 19:26:26.621374 : Datos cargados en la base de datos correctamente.
+2025-01-27 20:13:38.038571 : Preliminares completos. Iniciando proceso ETL
+2025-01-27 20:14:13.596262 : Preliminares completos. Iniciando proceso ETL
+2025-01-27 20:14:35.960778 : Preliminares completos. Iniciando proceso ETL
+2025-01-27 20:14:52.210545 : Preliminares completos. Iniciando proceso ETL
+2025-01-27 20:15:52.796293 : Preliminares completos. Iniciando proceso ETL
+2025-01-27 20:15:53.806574 : Archivo CSV guardado correctamente.
+2025-01-27 20:15:53.983540 : Datos cargados en la base de datos correctamente.
